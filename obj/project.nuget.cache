@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yz1Ye1jA4epAm/HbwkJ58yp9YysYIBIXb2sJ0S+0eVB+mVH6Dden8PrE6xCATxqwh+uK/BfENtLS3O0jw5Cctg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel Tovar\\Repos\\CommandHandler\\CommandHandler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel Tovar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

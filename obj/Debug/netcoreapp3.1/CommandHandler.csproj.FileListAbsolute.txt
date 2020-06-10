@@ -1,0 +1,13 @@
+C:\Users\Daniel Tovar\Repos\CommandHandler\bin\Debug\netcoreapp3.1\CommandHandler.exe
+C:\Users\Daniel Tovar\Repos\CommandHandler\bin\Debug\netcoreapp3.1\CommandHandler.deps.json
+C:\Users\Daniel Tovar\Repos\CommandHandler\bin\Debug\netcoreapp3.1\CommandHandler.runtimeconfig.json
+C:\Users\Daniel Tovar\Repos\CommandHandler\bin\Debug\netcoreapp3.1\CommandHandler.runtimeconfig.dev.json
+C:\Users\Daniel Tovar\Repos\CommandHandler\bin\Debug\netcoreapp3.1\CommandHandler.dll
+C:\Users\Daniel Tovar\Repos\CommandHandler\bin\Debug\netcoreapp3.1\CommandHandler.pdb
+C:\Users\Daniel Tovar\Repos\CommandHandler\obj\Debug\netcoreapp3.1\CommandHandler.csprojAssemblyReference.cache
+C:\Users\Daniel Tovar\Repos\CommandHandler\obj\Debug\netcoreapp3.1\CommandHandler.AssemblyInfoInputs.cache
+C:\Users\Daniel Tovar\Repos\CommandHandler\obj\Debug\netcoreapp3.1\CommandHandler.AssemblyInfo.cs
+C:\Users\Daniel Tovar\Repos\CommandHandler\obj\Debug\netcoreapp3.1\CommandHandler.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Tovar\Repos\CommandHandler\obj\Debug\netcoreapp3.1\CommandHandler.dll
+C:\Users\Daniel Tovar\Repos\CommandHandler\obj\Debug\netcoreapp3.1\CommandHandler.pdb
+C:\Users\Daniel Tovar\Repos\CommandHandler\obj\Debug\netcoreapp3.1\CommandHandler.genruntimeconfig.cache
